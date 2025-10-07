@@ -26,6 +26,8 @@ jobs:
           app_location: "/"       # your HTML/CSS is in root
           api_location: ""        # no API
           output_location: ""     # no build folder needed
+          skip_app_build: true
+
 
 
 
